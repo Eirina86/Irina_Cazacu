@@ -15,8 +15,8 @@ I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data 
 **Focus areas:** Lakehouse architecture · Data pipelines · Real-time analytics (KQL) · PySpark transformations · Security and governance  
 **Available for:** Freelance data engineering projects · Full-time Azure Data Engineer roles
 
-📧 [your.email@example.com]  
-🔗 [LinkedIn profile URL]  
+📧 [cazacuirina@ymail.com]  
+🔗 [(https://www.linkedin.com/in/irinaoniceanucazacu30/)]  
 📍 London, UK
 
 ---
