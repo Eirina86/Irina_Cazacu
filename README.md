@@ -17,7 +17,7 @@ I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data 
 **Available for:** Freelance data engineering projects · Full-time Azure Data Engineer roles
 
 📧 [cazacuirina@ymail.com]  
-🔗 [(https://www.linkedin.com/in/irinaoniceanucazacu30/)]  
+🔗 [(www.linkedin.com/in/irinacazacu/)]  
 📍 London, UK
 
 ---
