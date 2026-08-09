@@ -18,6 +18,7 @@ I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data 
 
 📧 [cazacuirina@ymail.com]  
 🔗 [(www.linkedin.com/in/irinacazacu/)]  
+🔗 [(https://eirina86.github.io/)]
 📍 London, UK
 
 ---
