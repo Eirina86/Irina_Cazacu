@@ -28,7 +28,7 @@ Each project is built in a Microsoft Fabric trial workspace and documents both t
 
 | # | Project | Technologies | Status |
 |---|---------|-------------|--------|
-| 1 | [Lakehouse Foundation](#project-1--lakehouse-foundation) | Fabric · Delta Lake · PySpark · SQL endpoint | 🔄 In progress |
+| 1 | [Lakehouse Foundation](#project-1--lakehouse-foundation) | Fabric · Delta Lake · PySpark · SQL endpoint | ✅ Complete (local environment) — Fabric implementation coming Week 5 |
 | 2 | [End-to-End Data Pipeline](#project-2--end-to-end-data-pipeline) | Fabric Pipelines · Dataflow Gen2 · Power BI Direct Lake | ⏳ Planned |
 | 3 | [Real-Time Analytics with KQL](#project-3--real-time-analytics-with-kql) | Eventstream · Eventhouse · KQL · Alerting | ⏳ Planned |
 | 4 | [Security and Governance Framework](#project-4--security-and-governance-framework) | RLS · Sensitivity labels · OneLake access roles · Microsoft Purview | ⏳ Planned |
