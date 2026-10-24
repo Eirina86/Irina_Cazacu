@@ -1,0 +1,12 @@
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+*.env
+
+# Editors and OS
+.vscode/
+.DS_Store
