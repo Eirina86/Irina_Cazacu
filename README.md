@@ -12,8 +12,11 @@
 I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data Engineer Associate** certification, building hands-on expertise in designing and implementing scalable analytics solutions on the Microsoft Fabric platform.
 
 **Current certifications:** AZ-900: Microsoft Azure Fundamentals & DP-900: Microsoft Azure Data Fundamentals  
+
 **Target certification:** DP-700: Microsoft Fabric Data Engineer Associate (December 2026 / January 2027)  
+
 **Focus areas:** Lakehouse architecture · Data pipelines · Real-time analytics (KQL) · PySpark transformations · Security and governance  
+
 **Available for:** Freelance data engineering projects · Full-time Azure Data Engineer roles
 
 📧 [cazacuirina@ymail.com]  
