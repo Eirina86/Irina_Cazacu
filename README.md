@@ -13,7 +13,7 @@ I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data 
 
 **Current certifications:** AZ-900: Microsoft Azure Fundamentals & DP-900: Microsoft Azure Data Fundamentals  
 
-**Target certification:** DP-700: Microsoft Fabric Data Engineer Associate (December 2026 / January 2027)  
+**Target certification:** DP-700: Microsoft Fabric Data Engineer Associate (November 2026) & DP-600:Fabric Analytics Engineer Associate (February 2027)  
 
 **Focus areas:** Lakehouse architecture · Data pipelines · Real-time analytics (KQL) · PySpark transformations · Security and governance  
 
