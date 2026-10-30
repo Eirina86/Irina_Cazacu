@@ -3,17 +3,18 @@
 [![AZ-900 Certified](https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 [![DP-900 Certified](https://img.shields.io/badge/Microsoft-DP--900%20Certified-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
 [![DP-700 In Progress](https://img.shields.io/badge/DP--700-In%20Progress-orange?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/)
+[![DP-600 Planned](https://img.shields.io/badge/DP--600-Planned-lightgrey?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-0078D4?style=flat)](https://learn.microsoft.com/en-us/fabric/)
 
 ---
 
 ## About me
 
-I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data Engineer Associate** certification, building hands-on expertise in designing and implementing scalable analytics solutions on the Microsoft Fabric platform.
+I am a data professional currently pursuing the **DP-700: Microsoft Fabric Data Engineer Associate** certification, with **DP-600: Fabric Analytics Engineer Associate** to follow, building hands-on expertise in designing and implementing scalable analytics solutions on the Microsoft Fabric platform.
 
 **Current certifications:** AZ-900: Microsoft Azure Fundamentals & DP-900: Microsoft Azure Data Fundamentals  
 
-**Target certification:** DP-700: Microsoft Fabric Data Engineer Associate (November 2026) & DP-600:Fabric Analytics Engineer Associate (February 2027)  
+**Target certifications:** DP-700: Microsoft Fabric Data Engineer Associate (November 2026) & DP-600: Fabric Analytics Engineer Associate (February 2027)  
 
 **Focus areas:** Lakehouse architecture · Data pipelines · Real-time analytics (KQL) · PySpark transformations · Security and governance  
 
