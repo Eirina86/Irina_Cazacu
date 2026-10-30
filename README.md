@@ -116,6 +116,8 @@ Alongside the Fabric work, I run a self-hosted Ubuntu server on a Dell Inspiron 
 I am working through a structured 22-week study plan that combines Microsoft Learn, hands-on Fabric trial work, and free community resources. Key resources I use:
 
 - [Microsoft Learn — DP-700 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700)
+- [Microsoft Learn — DP-600 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600)
+- [DP-600 free practice assessment](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=90&practice-assessment-type=certification)
 - [Official Fabric labs (GitHub)](https://microsoftlearning.github.io/mslearn-fabric/)
 - [MindMesh Academy — free DP-700 guide](https://mindmeshacademy.com)
 - [KQL playground](https://aka.ms/kql)
