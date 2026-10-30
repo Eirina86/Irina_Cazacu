@@ -81,6 +81,18 @@ Each project is built in a Microsoft Fabric trial workspace and documents both t
 
 ---
 
+## Home lab
+
+Alongside the Fabric work, I run a self-hosted Ubuntu server on a Dell Inspiron 3793, administered remotely over SSH. It's where I practise Linux administration and the infrastructure side of data engineering.
+
+| # | Write-up | Skills | Status |
+|---|---------|-------------|--------|
+| 1 | [Recovering from a GRUB boot failure](./homelab/01-boot-failure-recovery/) | GRUB shell · UEFI / `efibootmgr` · Dell BIOS · SSH · Root-cause analysis | ✅ Resolved |
+
+**Case study highlight:** after a routine update, the server stopped at the bootloader with every command failing. I mapped the disks from the GRUB shell, booted the kernel by hand, found a working boot path, ruled out file corruption with checksums over SSH from my phone, then made a preventive firmware change on-site. The write-up covers each step, what it ruled out, and where the root cause is still unproven.
+
+---
+
 ## Technical skills
 
 | Category | Technologies |
@@ -91,6 +103,7 @@ Each project is built in a Microsoft Fabric trial workspace and documents both t
 | Security | Row-Level Security, sensitivity labels, Microsoft Purview, OneLake access roles |
 | Development tools | Azure Data Studio, VS Code, Jupyter, Git |
 | Monitoring | Fabric Monitoring Hub, Capacity Metrics App, Query Insights |
+| Linux & infrastructure | Ubuntu Server administration, SSH, GRUB / UEFI boot troubleshooting, disk and partition management |
 
 ---
 
@@ -105,4 +118,4 @@ I am working through a structured 22-week study plan that combines Microsoft Lea
 
 ---
 
-*Last updated: August 2026*
+*Last updated: October 2026*
